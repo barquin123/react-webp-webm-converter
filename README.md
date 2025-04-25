@@ -7,9 +7,9 @@
 5. npm install react-dropzone
 In the project directory, you can run: (Assuming you have completed the steps above)
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+-npm start
+-Runs the app in the development mode.
+-Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
