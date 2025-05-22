@@ -1,6 +1,9 @@
 # WebP Converter - React JS
 https://fe-webp-converter.netlify.app/
 
+## credits
+[https://www.linkedin.com/in/edwin-amandoron-732999209/](Edwin Amandoron) - created the lossless webp converter
+
 ## Installation
 ### 1. `npx create-react-app image-converter-webapp`
 ### 2. `npm install`
