@@ -26,7 +26,7 @@ const App = () => {
   return (
     <div className="app">
       {/* <img src="../../Mug.gif" alt="FE MUG" /> */}
-      <img src="../../shreckson.png" alt="FE MUG" />
+      {/* <img src="../../shreckson.png" alt="FE MUG" /> */}
       <div className='webp-converter'>
       <Converter />
       </div>
